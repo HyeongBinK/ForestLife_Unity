@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: WindowsAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: fe18c4ccdddbc4c43a6253c043565b22, type: 3}
+    - {fileID: 2800000, guid: f7b5f34f08596b54784628a36360aa16, type: 3}
+    - {fileID: 2800000, guid: cde0a867176600f498574377b9ea8df4, type: 3}
+    - {fileID: 2800000, guid: f1d66d65d132ab44a8e3148faf010cd8, type: 3}
+    - {fileID: 2800000, guid: 4b5998eb0d6a2e7449865e75edcaac0f, type: 3}
+    - {fileID: 2800000, guid: 4816fccb01c2ade4e8a671302543264b, type: 3}
+    - {fileID: 2800000, guid: ec7c22c559df39341865c08d96a3a019, type: 3}
+    - {fileID: 2800000, guid: 1fbbf0c5f70b2ed41b19ee5c93a2213c, type: 3}
+    - {fileID: 2800000, guid: 7c3727ec30c129d47bf1e7483db24ca7, type: 3}
+    - {fileID: 2800000, guid: 4a4718be3a8d70542a9de0b94ec5f755, type: 3}
+    - {fileID: 2800000, guid: 5eeb52b869920784aa90c38dffef4fa7, type: 3}
+    - {fileID: 2800000, guid: f5fb432979fceb540abb2c1b3e267ec1, type: 3}
+    - {fileID: 2800000, guid: e9992e47fdc790645bf4c3a5a3d4b1cd, type: 3}
+    - {fileID: 2800000, guid: dbb254db12051ed4e97df0283d941699, type: 3}
+    - {fileID: 2800000, guid: 781c097c2d938cc4fa7b7050c3dec961, type: 3}
+    - {fileID: 2800000, guid: 962c6c9f651de9b4da83ff56134845f8, type: 3}
+    - {fileID: 2800000, guid: 9e41577405bbf1b42a81238641647e02, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 9e41577405bbf1b42a81238641647e02: 21300000
+    - f1d66d65d132ab44a8e3148faf010cd8: 21300000
+    - 1fbbf0c5f70b2ed41b19ee5c93a2213c: 21300000
+    - ec7c22c559df39341865c08d96a3a019: 21300000
+    - e9992e47fdc790645bf4c3a5a3d4b1cd: 21300000
+    - cde0a867176600f498574377b9ea8df4: 21300000
+    - 4816fccb01c2ade4e8a671302543264b: 21300000
+    - 4b5998eb0d6a2e7449865e75edcaac0f: 21300000
+    - 781c097c2d938cc4fa7b7050c3dec961: 21300000
+    - fe18c4ccdddbc4c43a6253c043565b22: 21300000
+    - 7c3727ec30c129d47bf1e7483db24ca7: 21300000
+    - f7b5f34f08596b54784628a36360aa16: 21300000
+    - 962c6c9f651de9b4da83ff56134845f8: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 9e41577405bbf1b42a81238641647e02, type: 3}
+  - {fileID: 21300000, guid: f1d66d65d132ab44a8e3148faf010cd8, type: 3}
+  - {fileID: 21300000, guid: 1fbbf0c5f70b2ed41b19ee5c93a2213c, type: 3}
+  - {fileID: 21300000, guid: ec7c22c559df39341865c08d96a3a019, type: 3}
+  - {fileID: 21300000, guid: e9992e47fdc790645bf4c3a5a3d4b1cd, type: 3}
+  - {fileID: 21300000, guid: cde0a867176600f498574377b9ea8df4, type: 3}
+  - {fileID: 21300000, guid: 4816fccb01c2ade4e8a671302543264b, type: 3}
+  - {fileID: 21300000, guid: 4b5998eb0d6a2e7449865e75edcaac0f, type: 3}
+  - {fileID: 21300000, guid: 781c097c2d938cc4fa7b7050c3dec961, type: 3}
+  - {fileID: 21300000, guid: fe18c4ccdddbc4c43a6253c043565b22, type: 3}
+  - {fileID: 21300000, guid: 7c3727ec30c129d47bf1e7483db24ca7, type: 3}
+  - {fileID: 21300000, guid: f7b5f34f08596b54784628a36360aa16, type: 3}
+  - {fileID: 21300000, guid: 962c6c9f651de9b4da83ff56134845f8, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ui_status
+  - menu_quest
+  - ui_bag
+  - menu_status
+  - ui_reinforce
+  - menu_map
+  - menu_skill
+  - menu_save
+  - ui_quest
+  - menu_bag
+  - ui_buying
+  - menu_camera
+  - ui_skill
+  m_RenderDataMap: {}
+  m_Tag: WindowsAtlas
+  m_IsVariant: 0

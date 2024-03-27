@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<Item_ConsumptionData ItemNum="5" Type="HP" Value="30"/>
+	<Item_ConsumptionData ItemNum="6" Type="MP" Value="30"/>
+	<Item_ConsumptionData ItemNum="7" Type="HP" Value="100"/>
+	<Item_ConsumptionData ItemNum="8" Type="MP" Value="100"/>
+	<Item_ConsumptionData ItemNum="9" Type="EXP" Value="1000"/>
+</root>

@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: d9868e27cf3fa5d478efa7bb509aaba7
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 8993902097722301239
+    second: RS_Attack
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: RS_Attack
+      takeName: Unreal Take
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: attack_Anim(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: idle
+      parentName: attack_Anim(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: root01
+      parentName: attack_Anim(Clone)
+      position: {x: -1.2045803e-10, y: 0.0113843065, z: 0.000023785233}
+      rotation: {x: 0.50106966, y: 0.49894208, z: 0.5010557, w: 0.49892807}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.99999994}
+    - name: Bone002
+      parentName: root01
+      position: {x: -0.0055950037, y: 0.000000016450882, z: -3.8146972e-10}
+      rotation: {x: -0.021914482, y: -0.022448212, z: -0.09486017, w: 0.9949962}
+      scale: {x: 1.003269, y: 1, z: 1}
+    - name: Bone003
+      parentName: Bone002
+      position: {x: -0.002548484, y: -0.0000000028610232, z: -9.536743e-11}
+      rotation: {x: -0.000009497627, y: -0.0006859935, z: 0.0010407115, w: 0.9999993}
+      scale: {x: 0.99999774, y: 1.0000029, z: 1}
+    - name: Bone004
+      parentName: Bone003
+      position: {x: -0.0030474518, y: -1.9073433e-10, z: 9.536743e-11}
+      rotation: {x: 0.0000915595, y: 0.031918682, z: -0.61628485, w: 0.7868763}
+      scale: {x: 0.9999994, y: 1.0000002, z: 1}
+    - name: Bone005
+      parentName: Bone004
+      position: {x: -0.003267294, y: 7.6293716e-10, z: 9.536743e-11}
+      rotation: {x: 0.000000014901159, y: -0.000000029802319, z: 0.048160404, w: 0.9988396}
+      scale: {x: 0.9999505, y: 1.0000492, z: 1}
+    - name: Bone006
+      parentName: Bone005
+      position: {x: -0.0023133296, y: 1.9072487e-10, z: 9.536743e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone007
+      parentName: root01
+      position: {x: -0.0055950037, y: 0.000000028657915, z: 0}
+      rotation: {x: -0.020551875, y: 0.022373974, z: 0.09188904, w: 0.9953057}
+      scale: {x: 0.98994446, y: 1, z: 1}
+    - name: Bone008
+      parentName: Bone007
+      position: {x: -0.0020780456, y: 5.7220456e-10, z: 0}
+      rotation: {x: -0.00000004470349, y: 6.5983205e-17, z: -0.015817137, w: 0.99987495}
+      scale: {x: 1.0000101, y: 0.9999902, z: 1}
+    - name: Bone009
+      parentName: Bone008
+      position: {x: -0.0027790521, y: 9.536836e-10, z: 0}
+      rotation: {x: 0.0012657598, y: -0.03035931, z: 0.59774786, w: 0.8011081}
+      scale: {x: 1.0000168, y: 0.9999838, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.01
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 5abd82835f6a36f4a8bb2f86b95946b2
+  - enabled: 1
+    path: Assets/Scenes/Town.unity
+    guid: 5acdf164a0339f54d939fe42a764c0ca
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: 1750d2e5dd6683c45814c09a3a638502
+  - enabled: 1
+    path: Assets/Scenes/Store.unity
+    guid: 2928f0ba7b9bc7644afe9125795fa5f7
+  - enabled: 1
+    path: Assets/Scenes/WeaponShop.unity
+    guid: 8c83e49146c64b84bbe933c955988b2e
+  - enabled: 1
+    path: Assets/Scenes/Field1.unity
+    guid: 819630ac4d752044893657a2f805274a
+  - enabled: 1
+    path: Assets/Scenes/Field2.unity
+    guid: da9e7015af41b7749ba7ec96b1565c0e
+  - enabled: 1
+    path: Assets/Scenes/Field3.unity
+    guid: 824cf5d63fd1b3447878afe138cac3f8
+  - enabled: 1
+    path: Assets/Scenes/BossField.unity
+    guid: 63b85f882fa0e2747a1659d5792a74e4
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}

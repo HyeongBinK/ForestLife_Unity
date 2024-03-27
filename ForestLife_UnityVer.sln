@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeanTransition", "LeanTransition.csproj", "{c5b8628f-1631-e95e-693f-f02af62dc69c}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{747d3bdb-e323-e2dc-a010-803e123a2b60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CW.Common", "CW.Common.csproj", "{2744f295-c370-e228-345f-800d5193493c}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeanGUI", "LeanGUI.csproj", "{3b0849e3-eb92-7e65-094e-d877dbcbf853}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeanCommon", "LeanCommon.csproj", "{9b583afb-dff6-9a3b-a757-0583c931f1fc}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeanTransition.Editor", "LeanTransition.Editor.csproj", "{1c093649-0c45-8a85-e4a0-4f732967fc1e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{b6d11533-fd6b-39d5-73c0-f59730925362}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{652f39f6-92ba-cea7-fe72-305c844b1410}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{c5b8628f-1631-e95e-693f-f02af62dc69c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{c5b8628f-1631-e95e-693f-f02af62dc69c}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{747d3bdb-e323-e2dc-a010-803e123a2b60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{747d3bdb-e323-e2dc-a010-803e123a2b60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2744f295-c370-e228-345f-800d5193493c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2744f295-c370-e228-345f-800d5193493c}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3b0849e3-eb92-7e65-094e-d877dbcbf853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3b0849e3-eb92-7e65-094e-d877dbcbf853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9b583afb-dff6-9a3b-a757-0583c931f1fc}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9b583afb-dff6-9a3b-a757-0583c931f1fc}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1c093649-0c45-8a85-e4a0-4f732967fc1e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1c093649-0c45-8a85-e4a0-4f732967fc1e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{b6d11533-fd6b-39d5-73c0-f59730925362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b6d11533-fd6b-39d5-73c0-f59730925362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{652f39f6-92ba-cea7-fe72-305c844b1410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{652f39f6-92ba-cea7-fe72-305c844b1410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

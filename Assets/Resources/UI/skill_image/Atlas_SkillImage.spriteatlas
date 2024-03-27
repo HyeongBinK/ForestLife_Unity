@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas_SkillImage
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: c1f758605331cff4aaae5e8d49e286b3, type: 3}
+    - {fileID: 2800000, guid: c592a1f8b50089d46ab3abed9b5ca18f, type: 3}
+    - {fileID: 2800000, guid: eff964163bd4d9e48a9d080dc1a421c0, type: 3}
+    - {fileID: 2800000, guid: 4972a26d1d536e44fae0f17b1acfd270, type: 3}
+    - {fileID: 2800000, guid: f703536fbc97f2d4b8089d38b1216f32, type: 3}
+    - {fileID: 2800000, guid: 73e0db3820e26104288f0e82b507b264, type: 3}
+    - {fileID: 2800000, guid: daf363d0255816b4eb8a13ca8c1fdbc5, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - c1f758605331cff4aaae5e8d49e286b3: 21300000
+    - daf363d0255816b4eb8a13ca8c1fdbc5: 21300000
+    - eff964163bd4d9e48a9d080dc1a421c0: 21300000
+    - 73e0db3820e26104288f0e82b507b264: 21300000
+    - c592a1f8b50089d46ab3abed9b5ca18f: 21300000
+    - 4972a26d1d536e44fae0f17b1acfd270: 21300000
+    - f703536fbc97f2d4b8089d38b1216f32: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: c1f758605331cff4aaae5e8d49e286b3, type: 3}
+  - {fileID: 21300000, guid: daf363d0255816b4eb8a13ca8c1fdbc5, type: 3}
+  - {fileID: 21300000, guid: eff964163bd4d9e48a9d080dc1a421c0, type: 3}
+  - {fileID: 21300000, guid: 73e0db3820e26104288f0e82b507b264, type: 3}
+  - {fileID: 21300000, guid: c592a1f8b50089d46ab3abed9b5ca18f, type: 3}
+  - {fileID: 21300000, guid: 4972a26d1d536e44fae0f17b1acfd270, type: 3}
+  - {fileID: 21300000, guid: f703536fbc97f2d4b8089d38b1216f32, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Passive_ATKUp
+  - Active_Thunder
+  - Passive_CRITUp
+  - Active_HeadShot
+  - Passive_DEFUp
+  - Passive_SPDUp
+  - Active_Earthquake
+  m_RenderDataMap: {}
+  m_Tag: Atlas_SkillImage
+  m_IsVariant: 0

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<ItemData ItemNum="0" ItemName="나뭇가지" ImageName="low_wood" ItemType="ETC" Price="10" Text="조잡한 나뭇가지이다. 저렴하다."/>
+	<ItemData ItemNum="1" ItemName="장작" ImageName="high_wood" ItemType="ETC" Price="100" Text="불을피우는데 사용될만한 수준의 장작이다."/>
+	<ItemData ItemNum="2" ItemName="자갈" ImageName="low_stone" ItemType="ETC" Price="20" Text="조잡한 자갈이다. 저렴하다."/>
+	<ItemData ItemNum="3" ItemName="바위" ImageName="high_stone" ItemType="ETC" Price="300" Text="석재를가공할수 있는 수준의 암석이다."/>
+	<ItemData ItemNum="4" ItemName="골렘의핵" ImageName="troll_tears" ItemType="ETC" Price="2000" Text="강력한몬스터를 처치하고얻은 광석이다. 돈이될거같다."/>
+	<ItemData ItemNum="5" ItemName="소형체력포션" ImageName="low_HPpotion" ItemType="CONSUMPTION" Price="1000" Text="작은 체력회복포션이다. 체력을 30프로 회복할수있다."/>
+	<ItemData ItemNum="6" ItemName="소형마력포션" ImageName="low_MPpotion" ItemType="CONSUMPTION" Price="2000" Text="작은 마력회복포션이다. 마력을 30프로 회복할수있다."/>
+	<ItemData ItemNum="7" ItemName="대형체력포션" ImageName="high_HPpotion" ItemType="CONSUMPTION" Price="5000" Text="커다란 체력회복포션이다. 체력을 100프로 회복할수있다."/>
+	<ItemData ItemNum="8" ItemName="대형마력포션" ImageName="high_Mppotion" ItemType="CONSUMPTION" Price="10000" Text="커다란 마력회복포션이다. 마력을 100프로 회복할수있다."/>
+	<ItemData ItemNum="9" ItemName="경험치물약" ImageName="legend_elixir" ItemType="CONSUMPTION" Price="99999" Text="경험치를 올려주는 비약이다. 일반적인 방법으로는 얻을수없다."/>
+	<ItemData ItemNum="10" ItemName="목재갑옷" ImageName="wood_chest" ItemType="EQUIPMENT" Price="1000" Text="조잡한목재로만든 갑옷이다."/>
+	<ItemData ItemNum="11" ItemName="목재헬멧" ImageName="wood_helm" ItemType="EQUIPMENT" Price="1000" Text="조잡한목재로만든 헬멧이다."/>
+	<ItemData ItemNum="12" ItemName="목재장갑" ImageName="wood_arm" ItemType="EQUIPMENT" Price="1000" Text="조잡한목재로만든 장갑이다. "/>
+	<ItemData ItemNum="13" ItemName="목재부츠" ImageName="wood_foot" ItemType="EQUIPMENT" Price="1000" Text="조잡한목재로만든 신발이다."/>
+	<ItemData ItemNum="14" ItemName="철재갑옷" ImageName="iron_chest" ItemType="EQUIPMENT" Price="5000" Text="철재로 만들어진 갑옷이다."/>
+	<ItemData ItemNum="15" ItemName="철재헬멧" ImageName="iron_helm" ItemType="EQUIPMENT" Price="5000" Text=" 철재로 만들어진 헬멧이다."/>
+	<ItemData ItemNum="16" ItemName="철재장갑" ImageName="iron_arm" ItemType="EQUIPMENT" Price="5000" Text="철재로 만들어진 장갑이다."/>
+	<ItemData ItemNum="17" ItemName="철재부츠" ImageName="iron_foot" ItemType="EQUIPMENT" Price="5000" Text="철재로 만들어진 신발이다."/>
+	<ItemData ItemNum="18" ItemName="금반지" ImageName="high_ring" ItemType="EQUIPMENT" Price="2000" Text="금으로 만들어진 반지이다. 도수가낮은 금인거 같다."/>
+	<ItemData ItemNum="19" ItemName="빛나는금반지" ImageName="legned_cat_ring" ItemType="EQUIPMENT" Price="10000" Text="금으로 만들어진 반지이다. 괜찮은 금인거같다."/>
+	<ItemData ItemNum="20" ItemName="소드" ImageName="Sword" ItemType="EQUIPMENT" Price="1000" Text="기본적인 검이다. 가볍다."/>
+	<ItemData ItemNum="21" ItemName="커틀러스" ImageName="Cutlass" ItemType="EQUIPMENT" Price="3000" Text="조금은 좋은 검같다. "/>
+	<ItemData ItemNum="22" ItemName="클레이모어" ImageName="Claymore" ItemType="EQUIPMENT" Price="8000" Text="괜찮은 검이다."/>
+	<ItemData ItemNum="23" ItemName="불멸의대검" ImageName="EternalSword" ItemType="EQUIPMENT" Price="99999" Text="일반적인 방법으론 얻을수없는 검같다. 매우강하다."/>
+	<ItemData ItemNum="24" ItemName="마을귀환주문서" ImageName="scroll_town" ItemType="SCROLL" Price="1000" Text="마을로 돌아올수있는 주문서이다. 매우편하다!"/>
+</root>

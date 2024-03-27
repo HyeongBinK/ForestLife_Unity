@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91396cbeb7f989b47ac2efd893e70cb3, type: 3}
+  m_Name: Weapon_Claymore
+  m_EditorClassIdentifier: 
+  ItemNum: 22
+  Type: 1
+  Min_Status:
+    MaxHP: 0
+    MaxMP: 0
+    Atk: 25
+    Def: 0
+    Str: 0
+    Dex: 0
+    Health: 0
+    Int: 0
+    Critical: 5
+  Max_Status:
+    MaxHP: 200
+    MaxMP: 100
+    Atk: 50
+    Def: 0
+    Str: 20
+    Dex: 20
+    Health: 20
+    Int: 20
+    Critical: 20
+  Max_ReinforceNum: 7

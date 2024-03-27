@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91396cbeb7f989b47ac2efd893e70cb3, type: 3}
+  m_Name: Weapon_Cutlass
+  m_EditorClassIdentifier: 
+  ItemNum: 21
+  Type: 1
+  Min_Status:
+    MaxHP: 0
+    MaxMP: 0
+    Atk: 15
+    Def: 0
+    Str: 0
+    Dex: 0
+    Health: 0
+    Int: 0
+    Critical: 0
+  Max_Status:
+    MaxHP: 50
+    MaxMP: 20
+    Atk: 30
+    Def: 0
+    Str: 10
+    Dex: 10
+    Health: 10
+    Int: 10
+    Critical: 10
+  Max_ReinforceNum: 6

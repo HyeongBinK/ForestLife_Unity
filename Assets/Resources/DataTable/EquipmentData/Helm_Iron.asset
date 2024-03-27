@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91396cbeb7f989b47ac2efd893e70cb3, type: 3}
+  m_Name: Helm_Iron
+  m_EditorClassIdentifier: 
+  ItemNum: 15
+  Type: 2
+  Min_Status:
+    MaxHP: 30
+    MaxMP: 0
+    Atk: 0
+    Def: 8
+    Str: 0
+    Dex: 0
+    Health: 0
+    Int: 0
+    Critical: 0
+  Max_Status:
+    MaxHP: 150
+    MaxMP: 50
+    Atk: 5
+    Def: 15
+    Str: 10
+    Dex: 10
+    Health: 10
+    Int: 10
+    Critical: 0
+  Max_ReinforceNum: 5

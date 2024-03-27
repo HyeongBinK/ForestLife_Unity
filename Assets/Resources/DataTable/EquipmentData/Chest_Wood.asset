@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91396cbeb7f989b47ac2efd893e70cb3, type: 3}
+  m_Name: Chest_Wood
+  m_EditorClassIdentifier: 
+  ItemNum: 10
+  Type: 3
+  Min_Status:
+    MaxHP: 20
+    MaxMP: 0
+    Atk: 0
+    Def: 5
+    Str: 0
+    Dex: 0
+    Health: 0
+    Int: 0
+    Critical: 0
+  Max_Status:
+    MaxHP: 100
+    MaxMP: 30
+    Atk: 3
+    Def: 12
+    Str: 5
+    Dex: 5
+    Health: 5
+    Int: 5
+    Critical: 0
+  Max_ReinforceNum: 4
